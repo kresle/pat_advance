@@ -1,0 +1,6 @@
+2
+aaa -9999
+
+ERROR: aaa is not a legal number
+ERROR: -9999 is not a legal number
+The average of 0 numbers is Undefined
