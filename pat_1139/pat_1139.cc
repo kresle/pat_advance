@@ -6,8 +6,8 @@
 using namespace std;
 
 int nn, mm;
-// vector<vector<int>> adj_homo, adj_hetero;
-vector<int>[10000] adj_homo;
+vector<vector<int>> adj_homo, adj_hetero;
+// vector<int>[10000] adj_homo;
 
 vector<vector<bool>> connected;
 vector<int> id2name;    //id to xxxx
